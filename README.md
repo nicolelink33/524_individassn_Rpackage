@@ -1,3 +1,4 @@
+Following instructions and documentation in 'The Whole Game' <https://r-pkgs.org/whole-game.html#load-devtools-and-friends>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
